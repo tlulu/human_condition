@@ -1,0 +1,4 @@
+openai==1.55.3         # For generating embeddings and completions
+pinecone-client==5.0.1 # For storing and querying vector embeddings
+tiktoken==0.8.0
+python-dotenv==1.0.1
